@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+
+body{
+	background-color:black;
+	color:white;
+}
+.header img{
+	float:left;
+	width:100px;
+	height:100px;
+	padding:5px;
+	
+}
+.header h1, .header h4{
+	position:relative;
+/* 	margin-left:200px; */
+	top:18px;
+	left:50px;
+	padding:5px;
+	
+}
+#skills{
+	margin-top:50px
+}
+h2{
+	color:yellow
+}
